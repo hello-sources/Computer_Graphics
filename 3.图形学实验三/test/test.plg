@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\32458\AppData\Local\Temp\RSPDB81.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/test.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp"
+]
+Creating command line "cl.exe @C:\Users\32458\AppData\Local\Temp\RSPDB81.tmp" 
+Creating temporary file "C:\Users\32458\AppData\Local\Temp\RSPDB82.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/test.pdb" /debug /machine:I386 /out:"Debug/test.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\test.obj"
+".\Debug\testDoc.obj"
+".\Debug\testView.obj"
+".\Debug\test.res"
+]
+Creating command line "link.exe @C:\Users\32458\AppData\Local\Temp\RSPDB82.tmp"
+<h3>Output Window</h3>
+Compiling...
+testView.cpp
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(119) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(120) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(121) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(122) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(123) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(124) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(125) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(126) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(131) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(135) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(136) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(138) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(138) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(140) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(140) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(114) : warning C4101: 'y' : unreferenced local variable
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(164) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(165) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(186) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(186) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(188) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(188) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(233) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Users\32458\Desktop\网上学习\计算机图形学项目\图形学实验三\test\testView.cpp(234) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+test.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
